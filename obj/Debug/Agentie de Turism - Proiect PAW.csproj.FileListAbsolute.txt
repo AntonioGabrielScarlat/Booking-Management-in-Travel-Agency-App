@@ -1,0 +1,18 @@
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.Properties.Resources.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie de Turism - Proiect PAW.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie de Turism - Proiect PAW.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\bin\Debug\Agentie de Turism - Proiect PAW.exe.config
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\bin\Debug\Agentie de Turism - Proiect PAW.exe
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\bin\Debug\Agentie de Turism - Proiect PAW.pdb
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie de Turism - Proiect PAW.exe
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie de Turism - Proiect PAW.pdb
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.Form1.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormServiciu.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormTurist.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormRezervare.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormGrafic.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormGrafic2.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormPrint.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.FormIstoricTuristi.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie_de_Turism___Proiect_PAW.CategorieVarstaTuristUserControl.resources
+C:\Users\anton\source\repos\Agentie de Turism - Proiect PAW\obj\Debug\Agentie de Turism - Proiect PAW.csprojAssemblyReference.cache
